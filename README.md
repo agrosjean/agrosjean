@@ -7,27 +7,17 @@
 
 Languages and Tools:
 Visual Studio Code
-
+https://logowik.com/content/uploads/images/visual-studio-code7642.jpg
 HTML5
-
 CSS3
-
 JavaScript
-
 React
-
 Redux
-
 Node.js
-
 Ruby on Rails
-
 SQL
-
 MySQL
-
 MongoDB
-
 Git
 
 
