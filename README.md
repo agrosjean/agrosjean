@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning full stack web development
 - ⚡ Fun fact: I make an amazing ratatouille
 - 📫 Feel free to contact me aagrosjean@gmail.com
-
+- My LinkedIn profile https://www.linkedin.com/in/alexandre-grosjean-4635a1208/
 
 
 
